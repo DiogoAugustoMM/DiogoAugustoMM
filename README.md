@@ -1,7 +1,8 @@
 ## Oii! Eu sou o Diogo Augusto 👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na PUC Minas  
-💻 Apaixonado por desenvolvimento de software, especialmente com C#, .NET e JavaScript  
+🎓 Formado em Análise e Desenvolvimento de Sistemas na PUC Minas  
+🎓 Atualmente cursando Engenharia de Software na Puc Minas
+💻 Apaixonado por desenvolvimento de software, especialmente com C#, java, .NET e JavaScript  
 🚀 Sempre aprendendo novas tecnologias e construindo projetos no GitHub!
 
 📌 Atualmente estagiando na Prodemge na área de planejamento e análise de mudanças  
