@@ -4,8 +4,7 @@
 🎓 Atualmente cursando Engenharia de Software na Puc Minas
 💻 Apaixonado por desenvolvimento de software, especialmente com C#, java, .NET e JavaScript  
 🚀 Sempre aprendendo novas tecnologias e construindo projetos no GitHub!
-
-📌 Atualmente estagiando na Prodemge na área de planejamento e análise de mudanças  
+📌 Atualmente procurando uma nova oportunidade para mostrar meus conhecimentos 
 🧠 Focado em melhorar minhas habilidades em backend, APIs, banco de dados e boas práticas de POO
 
 ---
